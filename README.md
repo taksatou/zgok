@@ -6,7 +6,7 @@ features:
 
 * very thin
 * pretty help
-* easy nested subcommand
+* nested subcommand support
 
 # Getting Started
 
@@ -61,7 +61,7 @@ example:
 
   This is an example command
   
-  Commands:
+Commands:
   
     echo        echo the input
 ```
