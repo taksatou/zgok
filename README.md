@@ -4,9 +4,9 @@ Zgok is a simple GO command line toolKit
 
 features:
 
-* very simple cli tool
-* generating pretty help
-* nested subcommand
+* very thin
+* pretty help
+* easy nested subcommand
 
 # Getting Started
 
