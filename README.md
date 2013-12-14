@@ -15,8 +15,8 @@ get the code:
 go get github.com/taksatou/zgok
 ```
 
-example:
-```
+example.go:
+``` go
 package main
 
 import (
@@ -54,7 +54,7 @@ func main() {
 }
 ```
 
- 
+and run: 
 ```
 $ ./example
 example:
